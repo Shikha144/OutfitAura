@@ -24,3 +24,6 @@ Outfit Aura integrates weather data and occasion input to curate customized outf
 - Integrate AI-based style personalization.
 - Expand weather condition options (humidity, wind).
 - Enable social sharing of outfit choices.
+
+## Live Demo  
+You can view the live prototype here: [OutfitAura](https://shikha144.github.io/OutfitAura/)
